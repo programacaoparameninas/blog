@@ -2,7 +2,7 @@
 
 # Blog
 
-Esse repositório visa organizar o calendário de postagens doblog. Confira na aba Boards o que estamosfazendo.
+ Esse repositório visa organizar o calendário de postagens do blog. Confira na aba Boards o que estamos fazendo e junte-se ao time.
 
 
 ## Como contribuir
